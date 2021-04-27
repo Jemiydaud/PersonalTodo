@@ -1,0 +1,46 @@
+.App {
+  background-color:rgb(156, 144, 107);
+
+}
+
+
+ main{
+  background-color: white;
+  margin: auto;
+  width: 50%;
+  border: 3px solid #191b17;
+  padding: 50px;
+}
+
+
+.App-header {
+  background-image: url(http://dslv9ilpbe7p1.cloudfront.net/b2AvJSqm6jdlL9jeoUG9Fw_store_banner_image.jpeg);
+  opacity: 0.7;
+  min-height: 50vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+  margin-bottom: 40px;
+}
+
+ p{
+  margin-bottom: 50px;
+  font-size: 20px;
+}
+h1{
+  margin-top: 50px;
+}
+
+.clear-btn{
+  margin-top: 20px;
+}
+
+footer{
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
