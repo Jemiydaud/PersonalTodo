@@ -68,7 +68,7 @@ function NewTodoInput ({ addTodo}) {
          type="text"
          value={inputValue}
          className="new-input"
-         placeholder="write your name here"
+         placeholder="write your list here"
          // call here the handleOnKeyDown func
          onKeyDown={handleOnKeyDown}
          onChange={handleInputValue}
